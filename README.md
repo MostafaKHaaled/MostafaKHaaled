@@ -18,7 +18,7 @@
 
 - :telescope: I’m working as a Data Science and Analysis .
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical.
 
 - :zap: In my free time, I solve problems on Data and read tech articles.
 
