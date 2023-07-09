@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" />
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 </div>
 <br>
 <div id="badges"  align="center">
